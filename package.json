@@ -1,0 +1,15 @@
+{
+  "name": "An Orval Example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "orval --config orval.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "orval": "^6.23.0"
+  }
+}
